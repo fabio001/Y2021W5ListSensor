@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Y2021W5ListSensor</string>
+
+    <string-array name="OperatingSystems">
+        <item>Windows</item>
+        <item>MacOS</item>
+        <item>Android</item>
+        <item>Linux</item>
+    </string-array>
+</resources>
